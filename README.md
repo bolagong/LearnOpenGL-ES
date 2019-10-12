@@ -1,2 +1,2 @@
-# LearnOpenGL-ES
-学习OpenGL
+# 获取OpenGL资源配置文件
+
